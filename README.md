@@ -29,6 +29,7 @@ I build **AI agent infrastructure** and **developer tools**.
 
 ## ✍️ Currently Writing
 
+- [Loop Engineering Is Just Software Engineering. We Have a Name for That](https://iii.dev/blog/loop-engineering-is-just-software-engineering/)
 - [How to Build Your Own Agent Harness](https://iii.dev/blog/how-to-build-your-own-agent-harness/)
 - [Why Agent Sandboxes Are Converging on libkrun, Not Firecracker](https://iii.dev/blog/why-agent-sandboxes-are-converging-on-libkrun-not-firecracker/)
 - [The Substrate Is Installable](https://iii.dev/blog/the-substrate-is-installable/)
