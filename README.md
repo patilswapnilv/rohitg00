@@ -29,6 +29,7 @@ I build **AI agent infrastructure** and **developer tools**.
 
 ## ✍️ Currently Writing
 
+- [The Four Loops, Clearly Explained](https://iii.dev/blog/the-four-loops-clearly-explained/)
 - [Loops, Graphs, and the Layer That Matters](https://iii.dev/blog/loops-graphs-and-the-layer-that-matters/)
 - [Loop Engineering Is Just Software Engineering. We Have a Name for That](https://iii.dev/blog/loop-engineering-is-just-software-engineering/)
 - [How to Build Your Own Agent Harness](https://iii.dev/blog/how-to-build-your-own-agent-harness/)
